@@ -122,31 +122,16 @@ An anime-inspired interactive web experience built to experiment with animations
 # 📈 GitHub Activity
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishvarya-p&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishvarya-p&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=aishvarya-p&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aishvarya-p&theme=github-dark&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishvarya-p&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aishvarya-p&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 # 🌍 Let's Connect
 
 <p>

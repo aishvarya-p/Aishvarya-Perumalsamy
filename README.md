@@ -1,7 +1,11 @@
+<!-- =========================
+          HEADER
+========================= -->
+
 <h1 align="center">Hi there! 👋 I'm Aishvarya Perumalsamy</h1>
 
 <h3 align="center">
-Computer Science Student • Learning • Building • Growing
+Aspiring Software Engineer • Exploring Cloud & AI/ML • Building in Public
 </h3>
 
 <p align="center">
@@ -9,11 +13,22 @@ I'm passionate about solving real-world problems through software and documentin
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Learning+Java;Exploring+Data+Structures+%26+Algorithms;Learning+Cloud+Computing;Exploring+Machine+Learning;Building+Projects;Growing+One+Commit+at+a+Time"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Learning+Cloud+Computing.;Exploring+AI+%26+Machine+Learning.;Building+Projects.;Growing+One+Commit+at+a+Time.;Always+Curious.;Always+Learning." alt="Typing SVG"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/aishvarya-p">
+    <img src="https://img.shields.io/github/followers/aishvarya-p?label=Follow&style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/aishvarya-perumalsamy-56388437b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=aishvarya-p&style=for-the-badge&color=0e75b6" />
+</p>
+
+---
 ---
 
 # 👩‍💻 About Me
@@ -136,10 +151,8 @@ An anime-inspired interactive web experience built to experiment with animations
 
 <p>
 
-<a href="www.linkedin.com/in/
-aishvarya-perumalsamy-56388437b
-">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/aishvarya-perumalsamy-56388437b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 

@@ -78,14 +78,6 @@ A machine learning project focused on predicting the impact of genetic mutations
 
 ---
 
-## ⚔️ JJK Interactive Website
-
-An anime-inspired interactive web experience built to experiment with animations, storytelling, and frontend design.
-
-**Status:** 🚧 Building
-
----
-
 # 📚 Technologies I'm Exploring
 
 ### Languages
